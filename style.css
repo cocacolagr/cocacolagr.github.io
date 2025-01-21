@@ -1,0 +1,34 @@
+body {
+    color: #2a264a;
+    background-color: aliceblue;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 0;
+}
+
+header {
+    color: white;
+    background-color: plum;
+    margin: 10px;
+    padding: 100px;
+    border-color: purple;
+    border-style: solid;
+    border-radius: 64px;
+    box-shadow: 10px 5px 5px pink;
+}
+
+h2 {
+    color: black;
+}
+
+b, i, del {
+    background-color: paleturquoise;
+}
+
+a {
+    color:palevioletred;
+}
+
+a:hover {
+    color:peachpuff;
+}
